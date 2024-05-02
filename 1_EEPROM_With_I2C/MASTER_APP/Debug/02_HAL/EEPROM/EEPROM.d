@@ -1,0 +1,15 @@
+02_HAL/EEPROM/EEPROM.o 02_HAL/EEPROM/EEPROM.o: ../02_HAL/EEPROM/EEPROM.c \
+  ../02_HAL/EEPROM/EEPROM.h ../02_HAL/EEPROM/../../00_Lib/STD_TYPES.h \
+  ../02_HAL/EEPROM/../../01_MCAL/I2C/I2C.h \
+  ../02_HAL/EEPROM/../../01_MCAL/I2C/../../00_Lib/Registers.h \
+  ../02_HAL/EEPROM/../../01_MCAL/I2C/../../00_Lib/STD_TYPES.h
+
+../02_HAL/EEPROM/EEPROM.h:
+
+../02_HAL/EEPROM/../../00_Lib/STD_TYPES.h:
+
+../02_HAL/EEPROM/../../01_MCAL/I2C/I2C.h:
+
+../02_HAL/EEPROM/../../01_MCAL/I2C/../../00_Lib/Registers.h:
+
+../02_HAL/EEPROM/../../01_MCAL/I2C/../../00_Lib/STD_TYPES.h:
